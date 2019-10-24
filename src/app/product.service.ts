@@ -5,7 +5,7 @@ import {Http, Response} from '@angular/http';
 import { Observable } from 'rxjs/Observable';
 import { Album } from './album';
 
-//import {map} from 'rxjs/operators';
+// import {map} from 'rxjs/operators';
 
 @Injectable()
 export class ProductService {
